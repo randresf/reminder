@@ -1,5 +1,5 @@
 node_modules
-.cache
+*.log
+.next
+app
 dist
-yarn.lock
-yarn-error.log

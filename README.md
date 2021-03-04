@@ -1,21 +1,11 @@
-Electron + TypeScript + React + Tailwind + Parcel = A good desktop app
+## Usage
 
-![](https://i.imgur.com/xFrUMHR.png)
+### Use it
 
-On this Github repository, just click "Use this template" to start a new project.
+```
+# development mode
+$ yarn dev (or `npm run dev` or `pnpm run dev`)
 
-# How to use
-
-To start the development app locally, run:
-
-    $ yarn watch
-
-and
-
-    $ yarn app
-
-# Work as a web app
-
-Run the following command to run the application as a web app, no electron needed
-
-    $ yarn dev
+# production build
+$ yarn build (or `npm run build` or `pnpm run build`)
+```

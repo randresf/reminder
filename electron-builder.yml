@@ -1,0 +1,12 @@
+appId: com.aforo.meetings
+productName: Aforo
+copyright: Copyright © 2021 Aforo SAS
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
